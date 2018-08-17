@@ -31,6 +31,16 @@
             this.components = new System.ComponentModel.Container();
             this.btnAgregar = new System.Windows.Forms.Button();
             this.gridCliente = new System.Windows.Forms.DataGridView();
+            this.idClienteDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.tipoDocumentoDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.numDocumentoDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.nombreDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.apellidoDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.edadDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.telefonoDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.direccionDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.emailDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.clienteBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.txtTelefono = new System.Windows.Forms.TextBox();
             this.txtDocumento = new System.Windows.Forms.TextBox();
             this.txtNombre = new System.Windows.Forms.TextBox();
@@ -42,22 +52,11 @@
             this.label1 = new System.Windows.Forms.Label();
             this.lbusuario = new System.Windows.Forms.Label();
             this.TTOTAL = new System.Windows.Forms.Label();
-            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
-            this.dateTimePicker2 = new System.Windows.Forms.DateTimePicker();
+            this.dateFechaF = new System.Windows.Forms.DateTimePicker();
+            this.dateFechaI = new System.Windows.Forms.DateTimePicker();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tpVehiculos = new System.Windows.Forms.TabPage();
             this.gridVehiculo = new System.Windows.Forms.DataGridView();
-            this.tpCliente = new System.Windows.Forms.TabPage();
-            this.lbTotal = new System.Windows.Forms.Label();
-            this.tbAlquiler = new System.Windows.Forms.TabPage();
-            this.gridAlquiler = new System.Windows.Forms.DataGridView();
-            this.txtIdVehiculo = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.txtTipo = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.txtMarca = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.txtModelo = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.txtAlquiler = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.txtStock = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.txtCantidad = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.idVehiculoDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tipoDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.marcaDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -68,25 +67,26 @@
             this.precioAlquilerDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.stockDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.vehiculoBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.idClienteDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.tipoDocumentoDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.numDocumentoDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.nombreDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.apellidoDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.edadDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.telefonoDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.direccionDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.emailDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.clienteBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.tpCliente = new System.Windows.Forms.TabPage();
+            this.tbAlquiler = new System.Windows.Forms.TabPage();
+            this.gridAlquiler = new System.Windows.Forms.DataGridView();
+            this.txtIdVehiculo = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.txtTipo = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.txtMarca = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.txtModelo = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.txtAlquiler = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.txtStock = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.txtCantidad = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.lbTotal = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.gridCliente)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.clienteBindingSource)).BeginInit();
             this.tabControl1.SuspendLayout();
             this.tpVehiculos.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.gridVehiculo)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.vehiculoBindingSource)).BeginInit();
             this.tpCliente.SuspendLayout();
             this.tbAlquiler.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.gridAlquiler)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.vehiculoBindingSource)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.clienteBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
             // btnAgregar
@@ -125,6 +125,64 @@
             this.gridCliente.TabIndex = 36;
             this.gridCliente.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.gridCliente_CellClick);
             this.gridCliente.DataBindingComplete += new System.Windows.Forms.DataGridViewBindingCompleteEventHandler(this.gridCliente_DataBindingComplete);
+            // 
+            // idClienteDataGridViewTextBoxColumn
+            // 
+            this.idClienteDataGridViewTextBoxColumn.DataPropertyName = "IdCliente";
+            this.idClienteDataGridViewTextBoxColumn.HeaderText = "IdCliente";
+            this.idClienteDataGridViewTextBoxColumn.Name = "idClienteDataGridViewTextBoxColumn";
+            // 
+            // tipoDocumentoDataGridViewTextBoxColumn
+            // 
+            this.tipoDocumentoDataGridViewTextBoxColumn.DataPropertyName = "TipoDocumento";
+            this.tipoDocumentoDataGridViewTextBoxColumn.HeaderText = "TipoDocumento";
+            this.tipoDocumentoDataGridViewTextBoxColumn.Name = "tipoDocumentoDataGridViewTextBoxColumn";
+            // 
+            // numDocumentoDataGridViewTextBoxColumn
+            // 
+            this.numDocumentoDataGridViewTextBoxColumn.DataPropertyName = "NumDocumento";
+            this.numDocumentoDataGridViewTextBoxColumn.HeaderText = "NumDocumento";
+            this.numDocumentoDataGridViewTextBoxColumn.Name = "numDocumentoDataGridViewTextBoxColumn";
+            // 
+            // nombreDataGridViewTextBoxColumn
+            // 
+            this.nombreDataGridViewTextBoxColumn.DataPropertyName = "Nombre";
+            this.nombreDataGridViewTextBoxColumn.HeaderText = "Nombre";
+            this.nombreDataGridViewTextBoxColumn.Name = "nombreDataGridViewTextBoxColumn";
+            // 
+            // apellidoDataGridViewTextBoxColumn
+            // 
+            this.apellidoDataGridViewTextBoxColumn.DataPropertyName = "Apellido";
+            this.apellidoDataGridViewTextBoxColumn.HeaderText = "Apellido";
+            this.apellidoDataGridViewTextBoxColumn.Name = "apellidoDataGridViewTextBoxColumn";
+            // 
+            // edadDataGridViewTextBoxColumn
+            // 
+            this.edadDataGridViewTextBoxColumn.DataPropertyName = "Edad";
+            this.edadDataGridViewTextBoxColumn.HeaderText = "Edad";
+            this.edadDataGridViewTextBoxColumn.Name = "edadDataGridViewTextBoxColumn";
+            // 
+            // telefonoDataGridViewTextBoxColumn
+            // 
+            this.telefonoDataGridViewTextBoxColumn.DataPropertyName = "Telefono";
+            this.telefonoDataGridViewTextBoxColumn.HeaderText = "Telefono";
+            this.telefonoDataGridViewTextBoxColumn.Name = "telefonoDataGridViewTextBoxColumn";
+            // 
+            // direccionDataGridViewTextBoxColumn
+            // 
+            this.direccionDataGridViewTextBoxColumn.DataPropertyName = "Direccion";
+            this.direccionDataGridViewTextBoxColumn.HeaderText = "Direccion";
+            this.direccionDataGridViewTextBoxColumn.Name = "direccionDataGridViewTextBoxColumn";
+            // 
+            // emailDataGridViewTextBoxColumn
+            // 
+            this.emailDataGridViewTextBoxColumn.DataPropertyName = "Email";
+            this.emailDataGridViewTextBoxColumn.HeaderText = "Email";
+            this.emailDataGridViewTextBoxColumn.Name = "emailDataGridViewTextBoxColumn";
+            // 
+            // clienteBindingSource
+            // 
+            this.clienteBindingSource.DataSource = typeof(GUI_MODERNISTA.Models.Cliente);
             // 
             // txtTelefono
             // 
@@ -239,19 +297,20 @@
             this.TTOTAL.TabIndex = 39;
             this.TTOTAL.Text = "Total";
             // 
-            // dateTimePicker1
+            // dateFechaF
             // 
-            this.dateTimePicker1.Location = new System.Drawing.Point(638, 132);
-            this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(249, 20);
-            this.dateTimePicker1.TabIndex = 40;
+            this.dateFechaF.Location = new System.Drawing.Point(638, 132);
+            this.dateFechaF.Name = "dateFechaF";
+            this.dateFechaF.Size = new System.Drawing.Size(249, 20);
+            this.dateFechaF.TabIndex = 40;
+            this.dateFechaF.ValueChanged += new System.EventHandler(this.dateFechaF_ValueChanged);
             // 
-            // dateTimePicker2
+            // dateFechaI
             // 
-            this.dateTimePicker2.Location = new System.Drawing.Point(638, 95);
-            this.dateTimePicker2.Name = "dateTimePicker2";
-            this.dateTimePicker2.Size = new System.Drawing.Size(249, 20);
-            this.dateTimePicker2.TabIndex = 40;
+            this.dateFechaI.Location = new System.Drawing.Point(638, 95);
+            this.dateFechaI.Name = "dateFechaI";
+            this.dateFechaI.Size = new System.Drawing.Size(249, 20);
+            this.dateFechaI.TabIndex = 40;
             // 
             // tabControl1
             // 
@@ -296,6 +355,64 @@
             this.gridVehiculo.TabIndex = 0;
             this.gridVehiculo.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.gridVehiculo_CellClick);
             // 
+            // idVehiculoDataGridViewTextBoxColumn
+            // 
+            this.idVehiculoDataGridViewTextBoxColumn.DataPropertyName = "IdVehiculo";
+            this.idVehiculoDataGridViewTextBoxColumn.HeaderText = "IdVehiculo";
+            this.idVehiculoDataGridViewTextBoxColumn.Name = "idVehiculoDataGridViewTextBoxColumn";
+            // 
+            // tipoDataGridViewTextBoxColumn
+            // 
+            this.tipoDataGridViewTextBoxColumn.DataPropertyName = "Tipo";
+            this.tipoDataGridViewTextBoxColumn.HeaderText = "Tipo";
+            this.tipoDataGridViewTextBoxColumn.Name = "tipoDataGridViewTextBoxColumn";
+            // 
+            // marcaDataGridViewTextBoxColumn
+            // 
+            this.marcaDataGridViewTextBoxColumn.DataPropertyName = "Marca";
+            this.marcaDataGridViewTextBoxColumn.HeaderText = "Marca";
+            this.marcaDataGridViewTextBoxColumn.Name = "marcaDataGridViewTextBoxColumn";
+            // 
+            // modeloDataGridViewTextBoxColumn
+            // 
+            this.modeloDataGridViewTextBoxColumn.DataPropertyName = "Modelo";
+            this.modeloDataGridViewTextBoxColumn.HeaderText = "Modelo";
+            this.modeloDataGridViewTextBoxColumn.Name = "modeloDataGridViewTextBoxColumn";
+            // 
+            // capPasajeroDataGridViewTextBoxColumn
+            // 
+            this.capPasajeroDataGridViewTextBoxColumn.DataPropertyName = "CapPasajero";
+            this.capPasajeroDataGridViewTextBoxColumn.HeaderText = "CapPasajero";
+            this.capPasajeroDataGridViewTextBoxColumn.Name = "capPasajeroDataGridViewTextBoxColumn";
+            // 
+            // transmisionDataGridViewTextBoxColumn
+            // 
+            this.transmisionDataGridViewTextBoxColumn.DataPropertyName = "Transmision";
+            this.transmisionDataGridViewTextBoxColumn.HeaderText = "Transmision";
+            this.transmisionDataGridViewTextBoxColumn.Name = "transmisionDataGridViewTextBoxColumn";
+            // 
+            // combustibleDataGridViewTextBoxColumn
+            // 
+            this.combustibleDataGridViewTextBoxColumn.DataPropertyName = "Combustible";
+            this.combustibleDataGridViewTextBoxColumn.HeaderText = "Combustible";
+            this.combustibleDataGridViewTextBoxColumn.Name = "combustibleDataGridViewTextBoxColumn";
+            // 
+            // precioAlquilerDataGridViewTextBoxColumn
+            // 
+            this.precioAlquilerDataGridViewTextBoxColumn.DataPropertyName = "PrecioAlquiler";
+            this.precioAlquilerDataGridViewTextBoxColumn.HeaderText = "PrecioAlquiler";
+            this.precioAlquilerDataGridViewTextBoxColumn.Name = "precioAlquilerDataGridViewTextBoxColumn";
+            // 
+            // stockDataGridViewTextBoxColumn
+            // 
+            this.stockDataGridViewTextBoxColumn.DataPropertyName = "Stock";
+            this.stockDataGridViewTextBoxColumn.HeaderText = "Stock";
+            this.stockDataGridViewTextBoxColumn.Name = "stockDataGridViewTextBoxColumn";
+            // 
+            // vehiculoBindingSource
+            // 
+            this.vehiculoBindingSource.DataSource = typeof(GUI_MODERNISTA.Models.Vehiculo);
+            // 
             // tpCliente
             // 
             this.tpCliente.Controls.Add(this.gridCliente);
@@ -306,16 +423,6 @@
             this.tpCliente.TabIndex = 0;
             this.tpCliente.Text = "CLIENTES";
             this.tpCliente.UseVisualStyleBackColor = true;
-            // 
-            // lbTotal
-            // 
-            this.lbTotal.AutoSize = true;
-            this.lbTotal.ForeColor = System.Drawing.Color.White;
-            this.lbTotal.Location = new System.Drawing.Point(863, 500);
-            this.lbTotal.Name = "lbTotal";
-            this.lbTotal.Size = new System.Drawing.Size(13, 13);
-            this.lbTotal.TabIndex = 43;
-            this.lbTotal.Text = "$";
             // 
             // tbAlquiler
             // 
@@ -380,121 +487,15 @@
             this.txtCantidad.HeaderText = "Cantidad";
             this.txtCantidad.Name = "txtCantidad";
             // 
-            // idVehiculoDataGridViewTextBoxColumn
+            // lbTotal
             // 
-            this.idVehiculoDataGridViewTextBoxColumn.DataPropertyName = "IdVehiculo";
-            this.idVehiculoDataGridViewTextBoxColumn.HeaderText = "IdVehiculo";
-            this.idVehiculoDataGridViewTextBoxColumn.Name = "idVehiculoDataGridViewTextBoxColumn";
-            // 
-            // tipoDataGridViewTextBoxColumn
-            // 
-            this.tipoDataGridViewTextBoxColumn.DataPropertyName = "Tipo";
-            this.tipoDataGridViewTextBoxColumn.HeaderText = "Tipo";
-            this.tipoDataGridViewTextBoxColumn.Name = "tipoDataGridViewTextBoxColumn";
-            // 
-            // marcaDataGridViewTextBoxColumn
-            // 
-            this.marcaDataGridViewTextBoxColumn.DataPropertyName = "Marca";
-            this.marcaDataGridViewTextBoxColumn.HeaderText = "Marca";
-            this.marcaDataGridViewTextBoxColumn.Name = "marcaDataGridViewTextBoxColumn";
-            // 
-            // modeloDataGridViewTextBoxColumn
-            // 
-            this.modeloDataGridViewTextBoxColumn.DataPropertyName = "Modelo";
-            this.modeloDataGridViewTextBoxColumn.HeaderText = "Modelo";
-            this.modeloDataGridViewTextBoxColumn.Name = "modeloDataGridViewTextBoxColumn";
-            // 
-            // capPasajeroDataGridViewTextBoxColumn
-            // 
-            this.capPasajeroDataGridViewTextBoxColumn.DataPropertyName = "CapPasajero";
-            this.capPasajeroDataGridViewTextBoxColumn.HeaderText = "CapPasajero";
-            this.capPasajeroDataGridViewTextBoxColumn.Name = "capPasajeroDataGridViewTextBoxColumn";
-            // 
-            // transmisionDataGridViewTextBoxColumn
-            // 
-            this.transmisionDataGridViewTextBoxColumn.DataPropertyName = "Transmision";
-            this.transmisionDataGridViewTextBoxColumn.HeaderText = "Transmision";
-            this.transmisionDataGridViewTextBoxColumn.Name = "transmisionDataGridViewTextBoxColumn";
-            // 
-            // combustibleDataGridViewTextBoxColumn
-            // 
-            this.combustibleDataGridViewTextBoxColumn.DataPropertyName = "Combustible";
-            this.combustibleDataGridViewTextBoxColumn.HeaderText = "Combustible";
-            this.combustibleDataGridViewTextBoxColumn.Name = "combustibleDataGridViewTextBoxColumn";
-            // 
-            // precioAlquilerDataGridViewTextBoxColumn
-            // 
-            this.precioAlquilerDataGridViewTextBoxColumn.DataPropertyName = "PrecioAlquiler";
-            this.precioAlquilerDataGridViewTextBoxColumn.HeaderText = "PrecioAlquiler";
-            this.precioAlquilerDataGridViewTextBoxColumn.Name = "precioAlquilerDataGridViewTextBoxColumn";
-            // 
-            // stockDataGridViewTextBoxColumn
-            // 
-            this.stockDataGridViewTextBoxColumn.DataPropertyName = "Stock";
-            this.stockDataGridViewTextBoxColumn.HeaderText = "Stock";
-            this.stockDataGridViewTextBoxColumn.Name = "stockDataGridViewTextBoxColumn";
-            // 
-            // vehiculoBindingSource
-            // 
-            this.vehiculoBindingSource.DataSource = typeof(GUI_MODERNISTA.Models.Vehiculo);
-            // 
-            // idClienteDataGridViewTextBoxColumn
-            // 
-            this.idClienteDataGridViewTextBoxColumn.DataPropertyName = "IdCliente";
-            this.idClienteDataGridViewTextBoxColumn.HeaderText = "IdCliente";
-            this.idClienteDataGridViewTextBoxColumn.Name = "idClienteDataGridViewTextBoxColumn";
-            // 
-            // tipoDocumentoDataGridViewTextBoxColumn
-            // 
-            this.tipoDocumentoDataGridViewTextBoxColumn.DataPropertyName = "TipoDocumento";
-            this.tipoDocumentoDataGridViewTextBoxColumn.HeaderText = "TipoDocumento";
-            this.tipoDocumentoDataGridViewTextBoxColumn.Name = "tipoDocumentoDataGridViewTextBoxColumn";
-            // 
-            // numDocumentoDataGridViewTextBoxColumn
-            // 
-            this.numDocumentoDataGridViewTextBoxColumn.DataPropertyName = "NumDocumento";
-            this.numDocumentoDataGridViewTextBoxColumn.HeaderText = "NumDocumento";
-            this.numDocumentoDataGridViewTextBoxColumn.Name = "numDocumentoDataGridViewTextBoxColumn";
-            // 
-            // nombreDataGridViewTextBoxColumn
-            // 
-            this.nombreDataGridViewTextBoxColumn.DataPropertyName = "Nombre";
-            this.nombreDataGridViewTextBoxColumn.HeaderText = "Nombre";
-            this.nombreDataGridViewTextBoxColumn.Name = "nombreDataGridViewTextBoxColumn";
-            // 
-            // apellidoDataGridViewTextBoxColumn
-            // 
-            this.apellidoDataGridViewTextBoxColumn.DataPropertyName = "Apellido";
-            this.apellidoDataGridViewTextBoxColumn.HeaderText = "Apellido";
-            this.apellidoDataGridViewTextBoxColumn.Name = "apellidoDataGridViewTextBoxColumn";
-            // 
-            // edadDataGridViewTextBoxColumn
-            // 
-            this.edadDataGridViewTextBoxColumn.DataPropertyName = "Edad";
-            this.edadDataGridViewTextBoxColumn.HeaderText = "Edad";
-            this.edadDataGridViewTextBoxColumn.Name = "edadDataGridViewTextBoxColumn";
-            // 
-            // telefonoDataGridViewTextBoxColumn
-            // 
-            this.telefonoDataGridViewTextBoxColumn.DataPropertyName = "Telefono";
-            this.telefonoDataGridViewTextBoxColumn.HeaderText = "Telefono";
-            this.telefonoDataGridViewTextBoxColumn.Name = "telefonoDataGridViewTextBoxColumn";
-            // 
-            // direccionDataGridViewTextBoxColumn
-            // 
-            this.direccionDataGridViewTextBoxColumn.DataPropertyName = "Direccion";
-            this.direccionDataGridViewTextBoxColumn.HeaderText = "Direccion";
-            this.direccionDataGridViewTextBoxColumn.Name = "direccionDataGridViewTextBoxColumn";
-            // 
-            // emailDataGridViewTextBoxColumn
-            // 
-            this.emailDataGridViewTextBoxColumn.DataPropertyName = "Email";
-            this.emailDataGridViewTextBoxColumn.HeaderText = "Email";
-            this.emailDataGridViewTextBoxColumn.Name = "emailDataGridViewTextBoxColumn";
-            // 
-            // clienteBindingSource
-            // 
-            this.clienteBindingSource.DataSource = typeof(GUI_MODERNISTA.Models.Cliente);
+            this.lbTotal.AutoSize = true;
+            this.lbTotal.ForeColor = System.Drawing.Color.White;
+            this.lbTotal.Location = new System.Drawing.Point(863, 500);
+            this.lbTotal.Name = "lbTotal";
+            this.lbTotal.Size = new System.Drawing.Size(13, 13);
+            this.lbTotal.TabIndex = 43;
+            this.lbTotal.Text = "$";
             // 
             // Alquiler
             // 
@@ -504,8 +505,8 @@
             this.ClientSize = new System.Drawing.Size(1064, 573);
             this.Controls.Add(this.lbTotal);
             this.Controls.Add(this.tabControl1);
-            this.Controls.Add(this.dateTimePicker2);
-            this.Controls.Add(this.dateTimePicker1);
+            this.Controls.Add(this.dateFechaI);
+            this.Controls.Add(this.dateFechaF);
             this.Controls.Add(this.TTOTAL);
             this.Controls.Add(this.lbusuario);
             this.Controls.Add(this.btnAgregar);
@@ -524,14 +525,14 @@
             this.Text = "Alquiler";
             this.Load += new System.EventHandler(this.Alquiler_Load);
             ((System.ComponentModel.ISupportInitialize)(this.gridCliente)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.clienteBindingSource)).EndInit();
             this.tabControl1.ResumeLayout(false);
             this.tpVehiculos.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.gridVehiculo)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.vehiculoBindingSource)).EndInit();
             this.tpCliente.ResumeLayout(false);
             this.tbAlquiler.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.gridAlquiler)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.vehiculoBindingSource)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.clienteBindingSource)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -552,8 +553,8 @@
 		private System.Windows.Forms.Label label1;
 		private System.Windows.Forms.Label lbusuario;
 		private System.Windows.Forms.Label TTOTAL;
-		private System.Windows.Forms.DateTimePicker dateTimePicker1;
-		private System.Windows.Forms.DateTimePicker dateTimePicker2;
+		private System.Windows.Forms.DateTimePicker dateFechaF;
+		private System.Windows.Forms.DateTimePicker dateFechaI;
 		private System.Windows.Forms.DataGridViewTextBoxColumn idClienteDataGridViewTextBoxColumn;
 		private System.Windows.Forms.DataGridViewTextBoxColumn tipoDocumentoDataGridViewTextBoxColumn;
 		private System.Windows.Forms.DataGridViewTextBoxColumn numDocumentoDataGridViewTextBoxColumn;

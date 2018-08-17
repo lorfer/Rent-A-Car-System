@@ -95,8 +95,6 @@ namespace GUI_MODERNISTA.Views
         public void CalcularTiempo(DateTime Inicio, DateTime Fin)
         {
             Time = Inicio.Subtract(Fin);
-
-            Console.WriteLine("Timepo de Alquiler: " + Math.Abs(Time.Days));
         }
 
         public int CostoAlquiler(int AlVehiculo)
@@ -104,6 +102,15 @@ namespace GUI_MODERNISTA.Views
             costo = AlVehiculo * Convert.ToInt32(Math.Abs(Time.Days));
 
             return costo;
+        }
+
+        private void dateFechaF_ValueChanged(object sender, EventArgs e)
+        {
+            DateTime inicio = Convert.ToDateTime(dateFechaI.Value);
+            DateTime fin = Convert.ToDateTime(dateFechaF.Value);
+            CalcularTiempo(inicio, fin);
+            lbTotal.Text = (CostoAlquiler(Convert.ToInt32(gridAlquiler[4, 0].Value))).ToString();
+            CalcularMora(Convert.ToDateTime(dateFechaF.Value));
         }
 
         public void CalcularMora(DateTime Limite)
