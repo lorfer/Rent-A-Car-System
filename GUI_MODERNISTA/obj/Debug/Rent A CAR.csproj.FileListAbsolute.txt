@@ -1,0 +1,128 @@
+C:\Users\Hp\Desktop\GUI_MODERNISTA II\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+C:\Users\Hp\Desktop\GUI_MODERNISTA II\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+C:\Users\Hp\Desktop\GUI_MODERNISTA II\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+C:\Users\Hp\Desktop\GUI_MODERNISTA II\GUI_MODERNISTA\bin\Debug\EntityFramework.dll
+C:\Users\Hp\Desktop\GUI_MODERNISTA II\GUI_MODERNISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hp\Desktop\GUI_MODERNISTA II\GUI_MODERNISTA\bin\Debug\EntityFramework.xml
+C:\Users\Hp\Desktop\GUI_MODERNISTA II\GUI_MODERNISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hp\Desktop\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Form1.resources
+C:\Users\Hp\Desktop\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.inicio.resources
+C:\Users\Hp\Desktop\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Login.resources
+C:\Users\Hp\Desktop\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.RegistrarUsuario.resources
+C:\Users\Hp\Desktop\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+C:\Users\Hp\Desktop\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\Rent A CAR.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\Users\Hp\Desktop\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+C:\Users\Hp\Desktop\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\Rent A CAR.csprojResolveAssemblyReference.cache
+C:\Users\pruebas01\Desktop\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+C:\Users\pruebas01\Desktop\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+C:\Users\pruebas01\Desktop\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+C:\Users\pruebas01\Desktop\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\bin\Debug\EntityFramework.dll
+C:\Users\pruebas01\Desktop\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pruebas01\Desktop\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\bin\Debug\EntityFramework.xml
+C:\Users\pruebas01\Desktop\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pruebas01\Desktop\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\Rent A CAR.csprojAssemblyReference.cache
+C:\Users\pruebas01\Desktop\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Form1.resources
+C:\Users\pruebas01\Desktop\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.inicio.resources
+C:\Users\pruebas01\Desktop\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Login.resources
+C:\Users\pruebas01\Desktop\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.RegistrarUsuario.resources
+C:\Users\pruebas01\Desktop\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+C:\Users\pruebas01\Desktop\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\Rent A CAR.csproj.GenerateResource.cache
+C:\Users\pruebas01\Desktop\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\Rent A CAR.csproj.CoreCompileInputs.cache
+C:\Users\pruebas01\Desktop\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\Rent A CAR.csproj.CopyComplete
+C:\Users\pruebas01\Desktop\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\Users\pruebas01\Desktop\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+C:\Users\pruebas01\Desktop\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Views.RegistrarCliente.resources
+C:\Users\pruebas01\Desktop\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Migrations.InitialCreate.resources
+C:\Users\pruebas01\Desktop\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Migrations.cliente.resources
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\bin\Debug\EntityFramework.dll
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\bin\Debug\EntityFramework.xml
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\Rent A CAR.csprojResolveAssemblyReference.cache
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Migrations.InitialCreate.resources
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Migrations.cliente.resources
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Form1.resources
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.inicio.resources
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Login.resources
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Views.RegistrarCliente.resources
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.RegistrarUsuario.resources
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\Rent A CAR.csproj.GenerateResource.Cache
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\Rent A CAR.csproj.CoreCompileInputs.cache
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Views.RegistrarVehiculo.resources
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\RentCar\Rent-A-Car-System-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Migrations.vehiculo.resources
+C:\Users\niove\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+C:\Users\niove\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+C:\Users\niove\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+C:\Users\niove\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\bin\Debug\EntityFramework.dll
+C:\Users\niove\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\niove\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\bin\Debug\EntityFramework.xml
+C:\Users\niove\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\niove\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\Rent A CAR.csprojResolveAssemblyReference.cache
+C:\Users\niove\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Migrations.InitialCreate.resources
+C:\Users\niove\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Migrations.cliente.resources
+C:\Users\niove\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Migrations.vehiculo.resources
+C:\Users\niove\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Form1.resources
+C:\Users\niove\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.inicio.resources
+C:\Users\niove\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Login.resources
+C:\Users\niove\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Views.RegistrarCliente.resources
+C:\Users\niove\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.RegistrarUsuario.resources
+C:\Users\niove\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+C:\Users\niove\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Views.RegistrarVehiculo.resources
+C:\Users\niove\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\Rent A CAR.csproj.GenerateResource.Cache
+C:\Users\niove\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\Rent A CAR.csproj.CoreCompileInputs.cache
+C:\Users\niove\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\Users\niove\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\bin\Debug\EntityFramework.dll
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\bin\Debug\EntityFramework.xml
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\Rent A CAR.csprojAssemblyReference.cache
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Migrations.InitialCreate.resources
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Migrations.cliente.resources
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Migrations.vehiculo.resources
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Form1.resources
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.inicio.resources
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Login.resources
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Views.RegistrarCliente.resources
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.RegistrarUsuario.resources
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Views.RegistrarVehiculo.resources
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\Rent A CAR.csproj.GenerateResource.cache
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\Rent A CAR.csproj.CoreCompileInputs.cache
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\Rent A CAR.csproj.CopyComplete
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+C:\Users\Enman\Desktop\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Views.Alquiler.resources
+C:\Users\niove\Desktop\Alquiler\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+C:\Users\niove\Desktop\Alquiler\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+C:\Users\niove\Desktop\Alquiler\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+C:\Users\niove\Desktop\Alquiler\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\bin\Debug\EntityFramework.dll
+C:\Users\niove\Desktop\Alquiler\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\niove\Desktop\Alquiler\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\bin\Debug\EntityFramework.xml
+C:\Users\niove\Desktop\Alquiler\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\niove\Desktop\Alquiler\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\Rent A CAR.csprojResolveAssemblyReference.cache
+C:\Users\niove\Desktop\Alquiler\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Migrations.InitialCreate.resources
+C:\Users\niove\Desktop\Alquiler\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Migrations.cliente.resources
+C:\Users\niove\Desktop\Alquiler\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Migrations.vehiculo.resources
+C:\Users\niove\Desktop\Alquiler\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Views.Alquiler.resources
+C:\Users\niove\Desktop\Alquiler\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Form1.resources
+C:\Users\niove\Desktop\Alquiler\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.inicio.resources
+C:\Users\niove\Desktop\Alquiler\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Login.resources
+C:\Users\niove\Desktop\Alquiler\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Views.RegistrarCliente.resources
+C:\Users\niove\Desktop\Alquiler\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.RegistrarUsuario.resources
+C:\Users\niove\Desktop\Alquiler\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+C:\Users\niove\Desktop\Alquiler\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Views.RegistrarVehiculo.resources
+C:\Users\niove\Desktop\Alquiler\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\Rent A CAR.csproj.GenerateResource.Cache
+C:\Users\niove\Desktop\Alquiler\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\Rent A CAR.csproj.CoreCompileInputs.cache
+C:\Users\niove\Desktop\Alquiler\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\Users\niove\Desktop\Alquiler\Rent-A-Car-System-desarrollo\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
